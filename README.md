@@ -16,6 +16,9 @@ This is what I learned about vi:
 15. ? searches backwards
 17. replace text :s/search/replace/g
 
-This is what I learned from current editor
-1.
+This is what I learned Sublime
+1. Python based plug in
+2. colorful, indentation
+3. instantly switch projects
+4. make multiple changes at the same time.
 
